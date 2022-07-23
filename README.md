@@ -3,6 +3,7 @@
 ![Soy un Generador intermitente de GitHub](https://lmichelin.fr/content/images/size/w2000/2019/05/5c1bb7dd5e7cc9678fcdc39f_Hello-World-Header.png)
 
 Soy un estudiante de ingeniería en Software. La experiencia que tengo por el momento se limita a lo implementado en el desarrollo de los proyectos académicos.
+<hr>
 
 <!--
 **Dhomochevsk/Dhomochevsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
