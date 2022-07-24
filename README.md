@@ -5,6 +5,12 @@
 Soy un estudiante de ingeniería en Software. La experiencia que tengo por el momento se limita a lo implementado en el desarrollo de los proyectos académicos.
 - 🌱 Estoy cursando la Carrera de Ingenieria en Software
 
+<h2>Mis Proyectos:</h2>
+<li>
+   [Readme](https://github.com/Dhomochevsk/Dhomochevsk.git)
+</li>
+La portada de esta cuenta donde se encuentra la estructura que la conforma.
+
 <h2>Tecnologías con las que estoy familiarizado:</h2>
 
 <img src="https://raw.githubusercontent.com/Dhomochevsk/Dhomochevsk/main/HTML.PNG" width="100px"
