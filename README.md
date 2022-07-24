@@ -5,16 +5,27 @@
 Soy un estudiante de ingeniería en Software. La experiencia que tengo por el momento se limita a lo implementado en el desarrollo de los proyectos académicos.
 - 🌱 Estoy cursando la Carrera de Ingenieria en Software
 
+
+<img src="https://cdn-icons-png.flaticon.com/512/81/81714.png" width="13px"
+margin-top="15px"
+margin-right="10px"
+margin-left= "10px"
+margin-left= "10px">
 <h2>Mis Proyectos:</h2>
 <li>
    <em><a href="https://github.com/Dhomochevsk/Dhomochevsk.git">Readme</a></em>
 </li>
 La portada de esta cuenta donde se encuentra la estructura que la conforma.
 <li>
-   <em><a href="https://github.com/Dhomochevsk/Dhomochevsk.git">Turismo Tungurahua</a></em>
+   <em><a href="https://github.com/Dhomochevsk/Proyecto_Manejo.git">Turismo Tungurahua</a></em>
 </li>
 Proyecto de creacion de un sitio web en html utilizando html, css y php donde se exponen caracteristicas turisticas de una locacion
+<li>
+   <em><a href="https://github.com/Dhomochevsk/Dhomochevsk.github.io.git">Proyecto_Manejo.git</a></em>
+</li>
+Pagina para pruebas de paginas de github donde se encuentra en archivo de documento de texto simple con la estructura de la portada
 <br>
+
 
 
 <h2>Tecnologías con las que estoy familiarizado:</h2>
