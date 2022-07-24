@@ -3,6 +3,7 @@
 ![Soy un Generador intermitente de GitHub](https://lmichelin.fr/content/images/size/w2000/2019/05/5c1bb7dd5e7cc9678fcdc39f_Hello-World-Header.png)
 
 Soy un estudiante de ingeniería en Software. La experiencia que tengo por el momento se limita a lo implementado en el desarrollo de los proyectos académicos.
+- 🌱 Estoy cursando la Carrera de Ingenieria en Software
 
 <h2>Tecnologías con las que estoy familiarizado:</h2>
 
@@ -34,6 +35,10 @@ margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
 margin-left= "10px">
+
+<h2>Estadisticas de GitHub:</h2>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dhomochevsk)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Dhomochevsk/Dhomochevsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
