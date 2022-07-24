@@ -7,7 +7,7 @@ Soy un estudiante de ingeniería en Software. La experiencia que tengo por el mo
 
 <h2>Mis Proyectos:</h2>
 <li>
-   [Readme](https://github.com/Dhomochevsk/Dhomochevsk.git)
+   <em><a href="https://github.com/Dhomochevsk/Dhomochevsk.git">Readme</a></em>
 </li>
 La portada de esta cuenta donde se encuentra la estructura que la conforma.
 
