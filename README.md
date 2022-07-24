@@ -10,6 +10,12 @@ Soy un estudiante de ingeniería en Software. La experiencia que tengo por el mo
    <em><a href="https://github.com/Dhomochevsk/Dhomochevsk.git">Readme</a></em>
 </li>
 La portada de esta cuenta donde se encuentra la estructura que la conforma.
+<li>
+   <em><a href="https://github.com/Dhomochevsk/Dhomochevsk.git">Turismo Tungurahua</a></em>
+</li>
+Proyecto de creacion de un sitio web en html utilizando html, css y php donde se exponen caracteristicas turisticas de una locacion
+<br>
+
 
 <h2>Tecnologías con las que estoy familiarizado:</h2>
 
