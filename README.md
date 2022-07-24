@@ -41,7 +41,7 @@ margin-left= "10px">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dhomochevsk)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://github.com/Dhomochevsk/Dhomochevsk/blob/main/photo.PNG?raw=true" width="700px"
+<img src="https://github.com/Dhomochevsk/Dhomochevsk/blob/main/photo.PNG?raw=true" width="350px"
 float= "left"
 margin-top="15px"
 margin-right="10px"
