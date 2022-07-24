@@ -3,6 +3,8 @@
 ![Soy un Generador intermitente de GitHub](https://lmichelin.fr/content/images/size/w2000/2019/05/5c1bb7dd5e7cc9678fcdc39f_Hello-World-Header.png)
 
 Soy un estudiante de ingeniería en Software. La experiencia que tengo por el momento se limita a lo implementado en el desarrollo de los proyectos académicos.
+
+<h2>Tecnologías con las que estoy familiarizado:</h2>
 <hr>
 
 <img src="https://raw.githubusercontent.com/Dhomochevsk/Dhomochevsk/main/HTML.PNG" width="100px"
