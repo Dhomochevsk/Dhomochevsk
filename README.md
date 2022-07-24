@@ -51,7 +51,7 @@ margin-left= "10px">
 <h2>Mauricio Villafuerte</h2>
 <h3>Dhomochevsk</h3>
 
-Soy estudiante de Ingenieria en Software y programador novato en entrenamiento
+Soy estudiante de Ingenieria y programador novato en entrenamiento
 <!--
 **Dhomochevsk/Dhomochevsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
