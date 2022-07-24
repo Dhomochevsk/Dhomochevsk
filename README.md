@@ -53,6 +53,7 @@ margin-left= "10px">
 
 Soy estudiante de Ingenieria y desarrollador principante de software, y el lenguaje de programacion que mejor uso es java segudo por html
 
+<hr>
 <img src="https://cdn.icon-icons.com/icons2/1364/PNG/512/maplocalization_89142.png" width="10px"
 float= "left"
 margin-top="15px"
@@ -60,6 +61,14 @@ margin-right="10px"
 margin-left= "10px"
 margin-left= "10px">
  Ecuador
+ 
+ <img src="https://cdn.icon-icons.com/icons2/2348/PNG/512/link_icon_142996.png" width="10px"
+float= "left"
+margin-top="15px"
+margin-right="10px"
+margin-left= "10px"
+margin-left= "10px">
+ https://dhomochevsk.github.io/
 <!--
 **Dhomochevsk/Dhomochevsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
