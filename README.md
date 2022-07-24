@@ -39,6 +39,19 @@ margin-left= "10px">
 <h2>Estadisticas de GitHub:</h2>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dhomochevsk)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img src="https://github.com/Dhomochevsk/Dhomochevsk/blob/main/photo.PNG?raw=true" width="700px"
+float= "left"
+margin-top="15px"
+margin-right="10px"
+margin-left= "10px"
+margin-left= "10px">
+
+<h2>Mauricio Villafuerte</h2>
+<h3>Dhomochevsk</h3>
+
+Soy estudiante de Ingenieria en Software y programador novato en entrenamiento
 <!--
 **Dhomochevsk/Dhomochevsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
