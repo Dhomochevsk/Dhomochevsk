@@ -59,8 +59,7 @@ float= "left"
 margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
-margin-left= "10px">
-Ecuador
+margin-left= "10px">Ecuador
  
 <img src="https://cdn.icon-icons.com/icons2/2348/PNG/512/link_icon_142996.png" width="10px"
 float= "left"
