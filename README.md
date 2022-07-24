@@ -5,19 +5,13 @@
 Soy un estudiante de ingeniería en Software. La experiencia que tengo por el momento se limita a lo implementado en el desarrollo de los proyectos académicos.
 <hr>
 <img src="https://raw.githubusercontent.com/Dhomochevsk/Dhomochevsk/main/HTML.PNG" width="100px"
-float= "left"
+
 margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
 margin-left= "10px">
 <img src="https://raw.githubusercontent.com/Dhomochevsk/Dhomochevsk/main/PHP.PNG" width="100px"
-float= "left"
-margin-top="15px"
-margin-right="10px"
-margin-left= "10px"
-margin-left= "10px">
-<img src="https://raw.githubusercontent.com/Dhomochevsk/Dhomochevsk/main/HTML.PNG" width="100px"
-float= "left"
+
 margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
