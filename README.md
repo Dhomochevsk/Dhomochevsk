@@ -5,7 +5,6 @@
 Soy un estudiante de ingeniería en Software. La experiencia que tengo por el momento se limita a lo implementado en el desarrollo de los proyectos académicos.
 
 <h2>Tecnologías con las que estoy familiarizado:</h2>
-<hr>
 
 <img src="https://raw.githubusercontent.com/Dhomochevsk/Dhomochevsk/main/HTML.PNG" width="100px"
 margin-top="15px"
