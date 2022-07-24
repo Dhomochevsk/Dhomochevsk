@@ -10,7 +10,36 @@ margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
 margin-left= "10px">
-
+<img src="https://raw.githubusercontent.com/Dhomochevsk/Dhomochevsk/main/PHP.PNG" width="100px"
+float= "left"
+margin-top="15px"
+margin-right="10px"
+margin-left= "10px"
+margin-left= "10px">
+<img src="https://raw.githubusercontent.com/Dhomochevsk/Dhomochevsk/main/HTML.PNG" width="100px"
+float= "left"
+margin-top="15px"
+margin-right="10px"
+margin-left= "10px"
+margin-left= "10px">
+<img src="https://github.com/Dhomochevsk/Dhomochevsk/blob/main/CSS.PNG" width="100px"
+float= "left"
+margin-top="15px"
+margin-right="10px"
+margin-left= "10px"
+margin-left= "10px">
+<img src="https://github.com/Dhomochevsk/Dhomochevsk/blob/main/JAVA.PNG?raw=true" width="100px"
+float= "left"
+margin-top="15px"
+margin-right="10px"
+margin-left= "10px"
+margin-left= "10px">
+<img src="https://github.com/Dhomochevsk/Dhomochevsk/blob/main/PYTHON.PNG?raw=true" width="100px"
+float= "left"
+margin-top="15px"
+margin-right="10px"
+margin-left= "10px"
+margin-left= "10px">
 <!--
 **Dhomochevsk/Dhomochevsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
