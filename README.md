@@ -8,7 +8,7 @@ Soy un estudiante de ingeniería en Software. La experiencia que tengo por el mo
 
 
 <h2>
-   <img src="https://cdn-icons-png.flaticon.com/512/81/81714.png" width="15px"
+   <img src="https://cdn-icons-png.flaticon.com/512/81/81714.png" width="20px"
 margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
@@ -88,26 +88,12 @@ margin-left= "10px"
 margin-left= "10px">
 Ecuador
  
-<img src="https://cdn.icon-icons.com/icons2/2348/PNG/512/link_icon_142996.png" width="10px"
+<img src="https://cdn.icon-icons.com/icons2/2348/PNG/512/link_icon_142996.png" width="15px"
 float= "left"
 margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
 margin-left= "10px">
-https://dhomochevsk.github.io/
+<em><a href="https://github.com/Dhomochevsk">Dhomochevsk</a></em>
 
 
-<!--
-**Dhomochevsk/Dhomochevsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
