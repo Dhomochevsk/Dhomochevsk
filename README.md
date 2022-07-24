@@ -6,12 +6,14 @@ Soy un estudiante de ingeniería en Software. La experiencia que tengo por el mo
 - 🌱 Estoy cursando la Carrera de Ingenieria en Software
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/81/81714.png" width="13px"
+
+<h2>
+   <img src="https://cdn-icons-png.flaticon.com/512/81/81714.png" width="15px"
 margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
 margin-left= "10px">
-<h2>Mis Proyectos:</h2>
+   Mis Proyectos:</h2>
 <li>
    <em><a href="https://github.com/Dhomochevsk/Dhomochevsk.git">Readme</a></em>
 </li>
