@@ -130,4 +130,3 @@ margin-left= "10px">
   <img alt="Dhomochevsk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Dhomochevsk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 
-
