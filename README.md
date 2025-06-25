@@ -3,8 +3,11 @@
 
 <img src="https://github.com/Dhomochevsk/Dhomochevsk/blob/main/bannergh3.png?raw=true" width="100%" padding= "20px">
 
-Soy un estudiante de ingeniería en Software. La experiencia que tengo por el momento se limita a lo implementado en el desarrollo de los proyectos académicos.
-- 🌱 Estoy cursando la Carrera de Ingenieria en Software
+Developer with hands-on experience in various technologies across all phases of the software development process.
+
+- Focused on web development and building applications using Python.
+- Knowledgeable in Angular, Firebase, and MySQL.
+- Interested in creating applications that integrate artificial intelligence, especially those that enhance creative or automated processes.
 
 
 
@@ -14,20 +17,11 @@ margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
 margin-left= "10px">
-   Mis Proyectos:</h2>
-<li>
-   <em><a href="https://github.com/Dhomochevsk/Dhomochevsk.git">Readme</a></em>
-</li>
-La portada de esta cuenta donde se encuentra la estructura que la conforma.
-<li>
-   <em><a href="https://github.com/Dhomochevsk/Proyecto_Manejo.git">Turismo Tungurahua</a></em>
-</li>
-Proyecto de creacion de un sitio web en html utilizando html, css y php donde se exponen caracteristicas turisticas de una locacion
-<li>
-   <em><a href="https://github.com/Dhomochevsk/Dhomochevsk.github.io.git">Proyecto_Manejo.git</a></em>
-</li>
-Pagina para pruebas de paginas de github donde se encuentra en archivo de documento de texto simple con la estructura de la portada
-<br>
+   Skills:</h2>
+**Programming Languages:** Python, JavaScript, HTML, CSS, PHP. 🚀  
+**Frameworks & Technologies:** Angular, MediaPipe, Pygame. 🔧  
+**Databases:** MySQL. 💡  
+**Design Tools:** Krita, Canva. 🎨
 
 
 
