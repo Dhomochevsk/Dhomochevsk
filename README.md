@@ -1,7 +1,6 @@
-<div align="left">
-<h1 align="center">Hola internauta, Mi nombre es Mauricio<a href="">Thais</a> 👋</h1>
-</div>
-#### Soy un Generador intermitente de GitHub
+
+<h1 align="left">Hello, digital explorer! I'm Mauricio.</h1>
+
 <img src="https://github.com/Dhomochevsk/Dhomochevsk/blob/main/bannergh3.png?raw=true" width="100%" padding= "20px">
 
 Soy un estudiante de ingeniería en Software. La experiencia que tengo por el momento se limita a lo implementado en el desarrollo de los proyectos académicos.
