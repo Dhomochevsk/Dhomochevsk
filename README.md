@@ -6,7 +6,9 @@
 Developer with hands-on experience in various technologies across all phases of the software development process.
 
 - Focused on web development and building applications using Python.
+  
 - Knowledgeable in Angular, Firebase, and MySQL.
+  
 - Interested in creating applications that integrate artificial intelligence, especially those that enhance creative or automated processes.
 
 
