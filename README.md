@@ -123,7 +123,6 @@ margin-left= "10px">
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=radical&hide_border=false)<br/>
 
 
