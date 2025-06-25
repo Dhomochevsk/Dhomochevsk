@@ -110,7 +110,7 @@ margin-left= "10px">
   <img alt="Dhomochevsk's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Dhomochevsk&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="180px" style="display: inline-block; vertical-align: top;" />
 
   <!-- GitHub Streaks -->
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=radical&hide_border=false)
+    <img alt="Dhomochevsk's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=radical&hide" height="180px" style="display: inline-block; vertical-align: top;" />
 </p>
 
 <p>
