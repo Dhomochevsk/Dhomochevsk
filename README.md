@@ -125,19 +125,6 @@ margin-left= "10px">
 [![](https://visitcount.itsvg.in/api?id=Dhomochevsk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<!-- GitHub Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Dhomochevsk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Dhomochevsk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</a>
-
-
-
-<!-- GitHub Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Dhomochevsk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Dhomochevsk&bg_color=FFFFFF&color=0D0D0D&line=2596be&point=242424&hide_border=true" />
-</a>
-
-
 
 <!-- GitHub Activity Graph (Estilo claro armonizado) -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
