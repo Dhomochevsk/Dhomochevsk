@@ -21,10 +21,10 @@ margin-left= "10px"
 margin-left= "10px">
    Skills:</h2>
 
-**Programming Languages:** Python, JavaScript, HTML, CSS, PHP. 
-**Frameworks & Technologies:** Angular, MediaPipe, Pygame. 
-**Databases:** MySQL. 
-**Design Tools:** Krita, Canva. 
+**Programming Languages:** Python, JavaScript, HTML, CSS, PHP.<br>
+**Frameworks & Technologies:** Angular, MediaPipe, Pygame.<br>
+**Databases:** MySQL.<br>
+**Design Tools:** Krita, Canva.<br>
 
 
 
