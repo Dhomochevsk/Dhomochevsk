@@ -124,41 +124,12 @@ margin-left= "10px">
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhomochevsk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3>💻 GitHub Profile Stats</h3>
 
-<!-- GitHub Readme Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Dhomochevsk's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Dhomochevsk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Dhomochevsk's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Dhomochevsk&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-</a>
-
-<br/>
-
-<p align="center">
-   
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=radical&hide_border=false)
-
-</p>
 
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<h3 align="center">📊 GitHub Stats Overview</h3>
 
-<div align="center">
-  <!-- Estadísticas generales -->
-  <img alt="Dhomochevsk's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Dhomochevsk&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="180px" style="display: inline-block; vertical-align: top;" />
-
-  <!-- GitHub Streaks -->
-  <img alt="Dhomochevsk's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=default&hide_border=true" height="180px" style="display: inline-block; vertical-align: top;" />
-</div>
-
-<div align="center">
-  <!-- Lenguajes más usados -->
-  <img alt="Dhomochevsk's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhomochevsk&layout=compact&langs_count=8&theme=default&hide_border=true&hide=Jupyter%20Notebook,Roff" height="180px" />
-</div>
 
 
 
