@@ -1,4 +1,6 @@
-### Hola internauta, Mi nombre es Mauricio
+<div align="left">
+<h1 align="center">Hola internauta, Mi nombre es Mauricio<a href="">Thais</a> 👋</h1>
+</div>
 #### Soy un Generador intermitente de GitHub
 <img src="https://github.com/Dhomochevsk/Dhomochevsk/blob/main/bannergh3.png?raw=true" width="100%" padding= "20px">
 
