@@ -157,6 +157,25 @@ margin-left= "10px">
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+<h3 align="center">📊 GitHub Stats Overview</h3>
+
+<div align="center">
+  <!-- Estadísticas generales -->
+  <img alt="Dhomochevsk's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Dhomochevsk&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="180px" style="display: inline-block; vertical-align: top;" />
+
+  <!-- GitHub Streaks -->
+  <img alt="Dhomochevsk's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=default&hide_border=true" height="180px" style="display: inline-block; vertical-align: top;" />
+</div>
+
+<div align="center">
+  <!-- Lenguajes más usados -->
+  <img alt="Dhomochevsk's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhomochevsk&layout=compact&langs_count=8&theme=default&hide_border=true&hide=Jupyter%20Notebook,Roff" height="180px" />
+</div>
+
+
+
+
+
 <!-- GitHub Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Dhomochevsk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Dhomochevsk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
