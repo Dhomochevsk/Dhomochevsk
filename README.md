@@ -137,3 +137,11 @@ margin-left= "10px">
   <img alt="Dhomochevsk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Dhomochevsk&bg_color=FFFFFF&color=0D0D0D&line=2596be&point=242424&hide_border=true" />
 </a>
 
+
+
+<!-- GitHub Activity Graph (Estilo claro armonizado) -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Dhomochevsk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Dhomochevsk&bg_color=FFFFFF&color=4B5563&line=60A5FA&point=3B82F6&hide_border=true" />
+</a>
+
+
