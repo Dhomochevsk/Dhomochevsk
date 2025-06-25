@@ -72,10 +72,8 @@ margin-left= "10px">
 
 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=default&hide_border=true" />
 
-
----
-[![](https://visitcount.itsvg.in/api?id=Dhomochevsk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
