@@ -72,11 +72,6 @@ margin-left= "10px">
 
 
 
-<img src="https://streak-stats.demolab.com/?user=Dhomochevsk&theme=default&hide_border=true" alt="GitHub Streak" height="180" />
-
-
-
-
 
 <!-- GitHub Activity Graph (Estilo claro armonizado) -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
