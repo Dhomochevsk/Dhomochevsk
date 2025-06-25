@@ -1,6 +1,6 @@
 ### Hola internauta, Mi nombre es Mauricio
 #### Soy un Generador intermitente de GitHub
-<img src="https://github.com/Dhomochevsk/Dhomochevsk/blob/main/portada.png?raw=true" width="800px"
+<img src="https://github.com/Dhomochevsk/Dhomochevsk/blob/main/bannergh.png?raw=true" width="800px"
 padding= "20px">
 
 Soy un estudiante de ingeniería en Software. La experiencia que tengo por el momento se limita a lo implementado en el desarrollo de los proyectos académicos.
