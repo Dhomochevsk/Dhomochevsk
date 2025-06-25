@@ -124,6 +124,14 @@ margin-left= "10px">
   <img alt="Dhomochevsk's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhomochevsk&layout=compact&langs_count=8&theme=default&hide_border=true&hide=Jupyter%20Notebook,Roff" height="180px" />
 </p>
 
+<p align="center">
+  <!-- Estadísticas generales -->
+  <img alt="Dhomochevsk's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Dhomochevsk&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="180px" style="display: inline-block; vertical-align: top;" />
+
+  <!-- GitHub Streaks -->
+  <img alt="Dhomochevsk's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=default&hide_border=true" height="180px" style="display: inline-block; vertical-align: top;" />
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhomochevsk&icon=0&color=0)](https://visitcount.itsvg.in)
