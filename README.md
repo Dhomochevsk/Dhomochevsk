@@ -72,7 +72,8 @@ margin-left= "10px">
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=default&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Dhomochevsk&theme=default&hide_border=true" alt="GitHub Streak" height="180" />
+
 
 
 
