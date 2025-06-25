@@ -103,17 +103,17 @@ margin-left= "10px">
 
 # 💻Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-<h3 align="center">📊 GitHub Stats Overview</h3>
+<h3>📊 GitHub Stats Overview</h3>
 
-<p align="center">
+<p>
   <!-- Estadísticas generales -->
   <img alt="Dhomochevsk's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Dhomochevsk&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="180px" style="display: inline-block; vertical-align: top;" />
 
   <!-- GitHub Streaks -->
-  <img alt="Dhomochevsk's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=default&hide_border=true" height="180px" style="display: inline-block; vertical-align: top;" />
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=radical&hide_border=false)
 </p>
 
-<p align="center">
+<p>
   <!-- Lenguajes más usados -->
   <img alt="Dhomochevsk's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhomochevsk&layout=compact&langs_count=8&theme=default&hide_border=true&hide=Jupyter%20Notebook,Roff" height="180px" />
 </p>
