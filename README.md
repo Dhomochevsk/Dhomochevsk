@@ -134,6 +134,6 @@ margin-left= "10px">
 
 <!-- GitHub Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Dhomochevsk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Dhomochevsk&bg_color=FFFFFF&color=0D0D0D&line=3E3E3E&point=242424&hide_border=true" />
+  <img alt="Dhomochevsk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Dhomochevsk&bg_color=FFFFFF&color=0D0D0D&line=#2596be&point=242424&hide_border=true" />
 </a>
 
