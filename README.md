@@ -122,8 +122,10 @@ margin-left= "10px">
 </a>
 
 <br/>
+![](https://github-readme-stats.vercel.app/api?username=Dhomochevsk&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhomochevsk&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <!-- GitHub Activity Graph -->
