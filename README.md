@@ -69,7 +69,6 @@ margin-left= "10px">
   <img alt="Dhomochevsk's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=default&hide_border=true" height="180px" style="display: inline-block; vertical-align: top;" />
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhomochevsk&show_icons=true&theme=default&hide_border=true)
 
 
 
