@@ -136,7 +136,7 @@ margin-left= "10px">
 
 <p align="center">
    
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=radical&hide_border=false)
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhomochevsk&theme=radical&hide_border=false)
 
 </p>
 
